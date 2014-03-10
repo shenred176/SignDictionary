@@ -1,16 +1,16 @@
 SignDictionary
 ==============
-School: Brigham Young University
-Supervisor: Michael, Jones
-Student: Tsai Yi Shen
+<p>
+<b>School: Brigham Young University
+<br>Supervisor: Michael, Jones</br></b></p>
 
-This is a project that has been done by Sean Ferons previously.
+<p>This is a project that has been done by Sean Ferons previously.
 This project is designed to help deaf students with reading. 
-They can point at a word and get the video of a person signing out the definition of the word.
+They can point at a word and get the video of a person signing out the definition of the word.</p>
 
-Current Stage: Get the application to work on Android Mobile App.
+<p><b>Current Stage: Get the application to work on Android Mobile App.<</b></p>
 
-Solve these problems:
-1. Speed up timing to look up words in dictionary
-2. Increase the accuracy when cropping word 
-3. Play the Sign Language video(not sure if it's done or not, have not seen it working properly yet)
+<p>Solve these problems:
+<br>1. Speed up timing to look up words in dictionary</br>
+<br>2. Increase the accuracy when cropping word </br>
+<br>3. Play the Sign Language video(not sure if it's done or not, have not seen it working properly yet</br></p>
