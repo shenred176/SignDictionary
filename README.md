@@ -5,7 +5,7 @@ SignDictionary
 <br>Supervisor: Michael, Jones</br></b></p>
 
 <p>This is a project that has been done by Sean Ferons previously.
-This project is designed to help deaf students with reading. 
+This project is designed to help deaf students with reading by using Google Glass. 
 They can point at a word and get the video of a person signing out the definition of the word.</p>
 
 <p><b>Current Stage: Get the application to work on Android phone.<</b></p>
